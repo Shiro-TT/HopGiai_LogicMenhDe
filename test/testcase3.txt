@@ -1,0 +1,5 @@
+G
+3
+S
+-S OR H
+-H OR G
